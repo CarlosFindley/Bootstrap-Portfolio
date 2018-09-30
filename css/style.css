@@ -2,7 +2,7 @@ body {
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
     color: #777;
     font-size: 1rem;
-    background-image: url(../_images/greyfloral.png); /* image from Toptal.com, Gray Floral made by Lauren. */
+    background-image: url(../images/greyfloral.png); /* image from Toptal.com, Gray Floral made by Lauren. */
 }
 
 header {
@@ -46,6 +46,7 @@ header {
     background: #ffffff;
     border: .2rem solid;
     border-color: #ddd;
+    margin-bottom: 10rem;
 }
 
 .display-6 {
